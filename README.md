@@ -1,18 +1,26 @@
-### Hi there 👋
+# Hello, I'm Prabhath. 👋
 
-👋 Hey there! I'm Prabhath, a passionate student at Rajarata University of Sri Lanka diving deep into the world of Android app development. 📱💻 Excited about crafting innovative mobile experiences and bringing ideas to life through code. Currently exploring the realms of Kotlin, Java, and all things Android. Let's connect and build something awesome together! 🚀 #AndroidDev #MobileApps #OpenSource
+<!-- Your Introduction -->
+I'm a student at Rajarata University of Sri Lanka, passionate about Android app development and all things tech! 🚀 Currently diving deep into Kotlin and Java to craft amazing mobile experiences.
 
-<!--
-**mihirprabhath/mihirprabhath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Your GitHub Stats -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Android Development (Kotlin/Java)
+- UI/UX Design
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects
+- [Project 1](Link to Project 1): Brief description.
+- [Project 2](Link to Project 2): Brief description.
+- [Project 3](Link to Project 3): Brief description.
+
+## 📫 Let's Connect
+- LinkedIn:mihirprabhath
+- Email: mihirprabhath@gmail.com
+
+<!-- Attractive Kotlin Logo -->
+<p align="center">
+  <img src="https://github.com/JetBrains/kotlin/blob/master/assets/images/twitter-card/kotlin_800x418.png" alt="Kotlin Logo">
+</p>
