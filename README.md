@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+👋 Hey there! I'm Prabhath, a passionate student at Rajarata University of Sri Lanka diving deep into the world of Android app development. 📱💻 Excited about crafting innovative mobile experiences and bringing ideas to life through code. Currently exploring the realms of Kotlin, Java, and all things Android. Let's connect and build something awesome together! 🚀 #AndroidDev #MobileApps #OpenSource
+
 <!--
 **mihirprabhath/mihirprabhath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
