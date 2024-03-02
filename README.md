@@ -10,6 +10,8 @@ I'm a student at Rajarata University of Sri Lanka, passionate about Android app 
 - Android Development (Kotlin/Java)
 - UI/UX Design
 - Git & GitHub
+- Project Management
+- Leadership
 
 ## 📚 Projects
 - [Project 1](Link to Project 1): Brief description.
@@ -17,7 +19,7 @@ I'm a student at Rajarata University of Sri Lanka, passionate about Android app 
 - [Project 3](Link to Project 3): Brief description.
 
 ## 📫 Let's Connect
-- LinkedIn:mihirprabhath
+- LinkedIn:www.linkedin.com/in/mìhír-pràbhàth
 - Email: mihirprabhath@gmail.com
 
 <!-- Attractive Kotlin Logo -->
