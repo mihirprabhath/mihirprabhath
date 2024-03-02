@@ -14,13 +14,13 @@ I'm a student at Rajarata University of Sri Lanka, passionate about Android app 
 - Leadership
 
 ## 📚 Projects
-- [Project 1](Link to Project 1): Brief description.
-- [Project 2](Link to Project 2): Brief description.
-- [Project 3](Link to Project 3): Brief description.
+- Sri lanka Real water bill Calculator
+- Grading System
 
 ## 📫 Let's Connect
 - LinkedIn:www.linkedin.com/in/mìhír-pràbhàth
 - Email: mihirprabhath@gmail.com
+- Whatsapp: 077 3592227
 
 <!-- Attractive Kotlin Logo -->
 <p align="center">
