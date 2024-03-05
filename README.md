@@ -8,6 +8,7 @@ I'm a student at Rajarata University of Sri Lanka, passionate about Android app 
 
 ## 🛠️ Skills
 - Android Development (Kotlin/Java)
+- php Programmer
 - UI/UX Design
 - Git & GitHub
 - Project Management
