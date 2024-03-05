@@ -1,7 +1,19 @@
 # Hello, I'm Prabhath. 👋
 
 <!-- Your Introduction -->
-I'm a student at Rajarata University of Sri Lanka, passionate about Android app development and all things tech! 🚀 Currently diving deep into Kotlin and Java to craft amazing mobile experiences.
+Sure, here's a sample about description for your GitHub account:
+
+---
+
+👋 Hello! I'm Prabhath, an undergraduate student at Rajarata University of Sri Lanka passionate about software engineering and technology. As a PHP programmer, I delve into crafting dynamic and efficient web solutions. My expertise also extends to Java for robust backend development and HTML/CSS for crafting engaging and visually appealing frontends.
+
+Constantly exploring and learning about the ever-evolving landscape of software engineering, I'm committed to honing my skills and staying updated with the latest trends and best practices in the field. 
+
+On my GitHub, you'll find a collection of projects showcasing my proficiency in PHP, Java, HTML, CSS, and other technologies. Join me on this journey of continuous learning and innovation as we shape the future of software development together! 🚀
+
+---
+
+Feel free to customize it further to better reflect your personality and specific experiences!
 
 <!-- Your GitHub Stats -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
