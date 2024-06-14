@@ -15,6 +15,9 @@ On my GitHub, you'll find a collection of projects showcasing my proficiency in 
 <!-- Your GitHub Stats -->
 ![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirprabhath&show_icons=true&theme=radical)
 
+![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirprabhath&show_icons=true&theme=radical)
+
+
 ## 🛠️ Skills
 - Android Development (Kotlin/Java)
 - php Programmer
