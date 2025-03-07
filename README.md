@@ -18,7 +18,6 @@ On my GitHub, you'll find a collection of projects showcasing my proficiency in 
 
 
 ## 🛠️ Skills
-- Android Development (Kotlin/Java)
 - php Programmer
 - UI/UX Design
 - Git & GitHub
