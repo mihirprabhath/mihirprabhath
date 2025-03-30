@@ -20,7 +20,8 @@ I love turning ideas into reality with clean, efficient code and staying ahead o
 ---
 
 ## **🔥 GitHub Stats**  
-[![Prabhath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihirprabhath&show_icons=true&theme=radical&hide_border=true)](https://github.com/mihirprabhath)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirprabhath&layout=compact&theme=radical&hide_border=true)](https://github.com/mihirprabhath)  
+[![Prabhath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihirprabhath&show_icons=true&theme=radical&hide_border=true)](https://github.com/mihirprabhath) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirprabhath&layout=compact&theme=radical&hide_border=true)](https://github.com/mihirprabhath)  
 
 ---
 
