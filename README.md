@@ -1,5 +1,17 @@
  # **Hello, I'm Prabhath! 👋**  
-![Developer Illustration](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+![Terminal Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ0d2hqY2R4bWp2b3J5dGZxZ3V0dG1kY2VqZzV6eGx5bWZ5dWx5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+
+![Code Typing](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
+
+
 ### **Full-Stack Developer | Laravel | MERN | React | Node.js | MongoDB**  
 
 🌍 **From Sri Lanka** | 🎓 **Undergraduate at Rajarata University**  
