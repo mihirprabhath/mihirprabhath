@@ -6,8 +6,7 @@
 🚀 **Building scalable web apps with modern tech stacks**  
 
 
-![3D Code Blocks](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif)
----
+ ---
 
 ## **👨‍💻 About Me**  
 I'm a passionate **full-stack developer** with expertise in:  
