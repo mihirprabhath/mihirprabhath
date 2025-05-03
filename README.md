@@ -1,5 +1,5 @@
  # **Hello, I'm Prabhath! 👋**  
-![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Developer Illustration](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 ### **Full-Stack Developer | Laravel | MERN | React | Node.js | MongoDB**  
 
 🌍 **From Sri Lanka** | 🎓 **Undergraduate at Rajarata University**  
