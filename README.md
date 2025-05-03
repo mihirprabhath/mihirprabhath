@@ -79,9 +79,3 @@ I love turning ideas into reality with clean, efficient code and staying ahead o
 
 ---  
 
-This version:  
-✅ **Highlights your full-stack expertise**  
-✅ **Includes modern badges for better visuals**  
-✅ **Showcases projects with tech stacks**  
-✅ **Encourages engagement (stars, connections)**  
-✅ **Keeps it professional yet creative**  
